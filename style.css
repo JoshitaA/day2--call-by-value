@@ -1,0 +1,12 @@
+body{
+   background: linear-gradient(120deg, #0061a8,#d8e3e7,#a6f6f1);
+
+     background-size: cover;
+     align-items: center;
+     text-align: center;
+ }
+ button{
+     font-size: 50px;
+     background-color: #c67ace;
+
+ }
